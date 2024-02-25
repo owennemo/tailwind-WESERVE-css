@@ -1,6 +1,5 @@
 # tailwind-WESERVE-css
 (UNCOMPLETED)
-Learn TailwindCSS by Following Tutorial
 
 Hi, everyone.
 
