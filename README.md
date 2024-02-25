@@ -7,4 +7,4 @@ In this Repository I learned website slicing using TailwindCSS which was obtaine
 1. Download and use free source UI/UX design from the SHAYNAKIT (https://shaynakit.com/landing)
 2. Importing UI/UX into Figma and using it as a reference for slicing
 3. Learn to use classes in TailwindCSS without CSS files for slicing designs into website displays
-4. 
+4. ...
