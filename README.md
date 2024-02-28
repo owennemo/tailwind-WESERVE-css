@@ -1,5 +1,4 @@
 # tailwind-WESERVE-css
-(UNCOMPLETED)
 
 Hi, everyone.
 
